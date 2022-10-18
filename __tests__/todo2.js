@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 // we will remove dependency of markascoplete on add
 const todoList = require("../todo");
 
